@@ -39,7 +39,7 @@ public class SampleDetails {
         return subdata;
     }
 
-    public void setSubdata(String mobile) {
+    public void setSubdata(String subdata) {
         this.subdata = subdata;
     }
 }
